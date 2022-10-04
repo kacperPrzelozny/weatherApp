@@ -54,7 +54,7 @@ import java.util.Objects;
 public class MainActivity extends AppCompatActivity {
 
     private LocationRequest locationRequest;
-    final String api_key = "fa161d44be9d341207ead14e09c333cc";
+    final String api_key = "";
     final String api_url = "https://api.openweathermap.org/data/2.5/weather?";
     private TextView city_country_view;
     private TextView temperature_view;
